@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "updateUrl": "https://raw.githubusercontent.com/matosrc8/cgiptv-update/main/app-debug.apk",
-  "updateMessage": "Novas melhorias e canais adicionados! Versão 1.1.0",
-  "announcement": "MUDANÇAS NO APP"
+  "updateMessage": "Novas melhorias aplicadas! Versão 1.2.0",
+  "announcement": "BEM-VINDO AO CG IPTV! • QUALIDADE E ESTABILIDADE SEMPRE!"
 }
