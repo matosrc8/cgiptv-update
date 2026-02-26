@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6.0",
+  "versionCode": 11,
+  "versionName": "1.8.0",
   "updateUrl": "https://raw.githubusercontent.com/matosrc8/cgiptv-update/main/app-debug.apk",
-  "updateMessage": "FIX CRASH! Canais e Filmes corrigidos. Download 100% interno. Versão 1.6.0",
-  "announcement": "BEM-VINDO AO CG IPTV! • QUALIDADE E ESTABILIDADE SEMPRE! • SUPORTE: (85) 99935-7476 / (85) 99121-7257"
+  "updateMessage": "ATALHOS RÁPIDOS! Agora os favoritos abrem o conteúdo direto na Dashboard. Versão 1.8.0",
+  "announcement": "BEM-VINDO AO CG IPTV! • QUALIDADE E ESTABILIDADE SEMPRE! • SUPORTE: (85) 99935-7476"
 }
