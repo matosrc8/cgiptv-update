@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "2.4.0",
+  "versionCode": 18,
+  "versionName": "2.5.0",
   "updateUrl": "https://raw.githubusercontent.com/matosrc8/cgiptv-update/main/app-debug.apk",
-  "updateMessage": "NOVA BUSCA! Pesquisa fina na Dashboard e busca em Filmes/Séries. Versão 2.4.0",
-  "announcement": "BEM-VINDO AO CG IPTV! • USE A BUSCA PARA ENCONTRAR CONTEÚDO • "
+  "updateMessage": "DASHBOARD LIMPA! Agora a busca está dentro de Canais, Filmes e Séries. Versão 2.5.0",
+  "announcement": "BEM-VINDO AO CG IPTV! • USE OS ATALHOS NO TOPO PARA ACESSO RÁPIDO • "
 }
